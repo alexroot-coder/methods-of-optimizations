@@ -1,0 +1,1 @@
+plot 7.15385-1.15385*x,4.14286-1.2857*x,-7.25+0.75*x,3.5, "E://1.dat" using 1:2:3:4 with vectors filled head lw 3
