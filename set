@@ -1,0 +1,6 @@
+set xr [0:10]
+set yr [-10:10]
+set size ratio 2 # y/x
+set xtics 0,1,10
+set ytics -10,1,10
+set grid
